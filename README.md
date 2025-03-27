@@ -1,3 +1,14 @@
+React User Management Application
+This project is a simple React-based user management application that integrates with the Reqres API for performing basic user operations such as authentication, listing users, editing user details, and deleting users.
+Features
+1 - Authentication: Login with predefined credentials to obtain a session token
+2 - User List: View a paginated list of users retrieved from the API.
+3 - Edit User: Update user details dynamically.
+4 - Delete User: Remove a user from the list with instant UI updates.
+5 - Session Timeout: Automatically redirects to the login page after a fixed duration of inactivity.
+6 - Client-Side Search: Filter users by name using a search bar.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
